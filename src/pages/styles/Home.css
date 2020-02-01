@@ -1,0 +1,23 @@
+.home {
+  min-height: calc(100vh - 60px);
+  background-color: #1b1b25;
+  background-image: url(../../images/stars.svg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+figure img {
+  max-width: 100%;
+}
+
+.home__info {
+  width: 30%;
+}
+
+.home__img {
+  width: 70%;
+}
+.home__img {
+  width: 550px;
+}
